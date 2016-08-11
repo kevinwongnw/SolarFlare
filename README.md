@@ -1,6 +1,6 @@
 # SolarFlare MSE plot
 
-![alt tag](https://github.com/kphaser/SolarFlare/Kevin_Model_Performance.png)
+![MSE](https://github.com/kevinwongnw/SolarFlare/blob/master/Kevin_Model_Performance.png?raw=true)
 
 
 Data source: https://archive.ics.uci.edu/ml/datasets/Solar+Flare
